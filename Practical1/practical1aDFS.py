@@ -1,3 +1,5 @@
+# 1a Write a program to implement depth first search algorithm.
+
 # DFS Algorithm Explanation
 # 1. Initialization:
 # 	- Start from a given node (source or root).
